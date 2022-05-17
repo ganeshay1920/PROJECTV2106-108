@@ -1,0 +1,49 @@
+body
+{
+    font-family: 'Libre Baskerville', serif;
+    background:linear-gradient(bottom right blueviolet,rgb(109, 23, 190));
+}
+
+.header_div
+{
+    background-color: purple;
+    color:red;
+}
+
+.header_div p
+{
+    color: gray;
+    letter-spacing: 2px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size:15px;
+    font-weight: bolder;
+}
+
+.header_div h1
+{
+    font-size:25px;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+}
+
+.main_div button
+{
+    width:130px;
+    height:50px;
+    letter-spacing: 3px;
+    font-size:18px;
+    font-family: 'Cormorant Garamond', serif;
+    margin-top:30px;
+}
+.copy_right_footer
+{
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   background-color:pink;
+   color: black;
+   text-align: center;
+   text-shadow: 5px 5px 5px black;
+   line-height: 2px;
+}
+
